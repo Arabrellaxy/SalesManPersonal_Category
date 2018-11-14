@@ -29,8 +29,8 @@
 
 /* Begin PBXFileReference section */
 		05AF3A684AF552BA5BF8C98A /* Pods-SalesManPersonal_Category_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SalesManPersonal_Category_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SalesManPersonal_Category_Tests/Pods-SalesManPersonal_Category_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0613FA314FD8420C3DF5E6D8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		3E70974E826C6187DD9253D4 /* SalesManPersonal_Category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SalesManPersonal_Category.podspec; path = ../SalesManPersonal_Category.podspec; sourceTree = "<group>"; };
+		0613FA314FD8420C3DF5E6D8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3E70974E826C6187DD9253D4 /* SalesManPersonal_Category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SalesManPersonal_Category.podspec; path = ../SalesManPersonal_Category.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* SalesManPersonal_Category_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SalesManPersonal_Category_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		607FACE51AFB9204008FA782 /* SalesManPersonal_Category_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SalesManPersonal_Category_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		61507CC3357227BA3B6B41E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		61507CC3357227BA3B6B41E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		7FD0135B9C6345093BD17FB2 /* Pods-SalesManPersonal_Category_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SalesManPersonal_Category_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SalesManPersonal_Category_Tests/Pods-SalesManPersonal_Category_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8167115702CA6A9C7F91BB90 /* Pods-SalesManPersonal_Category_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SalesManPersonal_Category_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SalesManPersonal_Category_Example/Pods-SalesManPersonal_Category_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AEAA0EFF760CD911770FE077 /* Pods-SalesManPersonal_Category_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SalesManPersonal_Category_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SalesManPersonal_Category_Example/Pods-SalesManPersonal_Category_Example.release.xcconfig"; sourceTree = "<group>"; };

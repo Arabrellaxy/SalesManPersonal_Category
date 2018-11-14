@@ -1,0 +1,16 @@
+PODS:
+  - SalesManPersonal_Category (0.1.0)
+
+DEPENDENCIES:
+  - SalesManPersonal_Category (from `../`)
+
+EXTERNAL SOURCES:
+  SalesManPersonal_Category:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SalesManPersonal_Category: 0e75d98efbe75d9f1bc4b387cb71d50ed0635a2b
+
+PODFILE CHECKSUM: 6c9e1b54b708c47ec8b8c9cc50937bc5bb0ed9d0
+
+COCOAPODS: 1.4.0

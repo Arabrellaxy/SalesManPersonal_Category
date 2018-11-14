@@ -1,0 +1,22 @@
+{
+  "name": "SalesManPersonal_Category",
+  "version": "0.1.0",
+  "summary": "A short description of SalesManPersonal_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Arabrellaxy/SalesManPersonal_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Arabrellaxy": "xiey@sailwish.com"
+  },
+  "source": {
+    "git": "https://github.com/Arabrellaxy/SalesManPersonal_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SalesManPersonal_Category/Classes/**/*"
+}
